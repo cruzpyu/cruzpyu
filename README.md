@@ -6,8 +6,8 @@
 <img height="180" src="https://github.com/cruzpyu/portfolio/blob/main/assets/img/other__me.png?raw=true"/>
 </div>
 
-#### 💻 Desenvolvimento Web Front-end.
-#### 📚 Estudando JavaScript e React.
+### 💻 Sou desenvolvedora Front-end.
+#### 📚 Atualmente estudo JavaScript e React.
 
 
 <div align="left">
