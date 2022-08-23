@@ -1,8 +1,8 @@
-# Olá, me chamo Yullie! 👋
+## Olá, me chamo Yullie! 👋
 
-## 💻 Sou desenvolvedora Front-end
+### 💻 Sou desenvolvedora Front-end
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzpyu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzpyu&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
 </div>
@@ -17,7 +17,7 @@
 </div>
 
 ##
-## 🌎 Você pode entrar em contato comigo através das redes abaixo:
+### 🌎 Você pode entrar em contato comigo através das redes abaixo:
 <div> 
   <a href="https://www.linkedin.com/in/yullie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:webdevyu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
