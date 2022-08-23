@@ -6,7 +6,9 @@
 <img height="180" src="https://github.com/cruzpyu/portfolio/blob/main/assets/img/other__me.png?raw=true"/>
 </div>
 
-### 💻 Desenvolvimento Front-end
+#### 💻 Desenvolvimento Web Front-end.
+#### 📚 Estudando JavaScript e React.
+
 
 <div align="left">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=cruzpyu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -14,7 +16,7 @@
 </div>
 
 ##
-### ⚙️ Ferramentas que costumo utilizar: 
+### ⚙️ Tecnologias que costumo utilizar: 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -30,5 +32,5 @@
   <a href="https://www.linkedin.com/in/yullie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://discord.com/users/866455608307613706" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <a href="https://api.whatsapp.com/send?phone=5588999172168" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href = "mailto:webdevyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:webdevyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
