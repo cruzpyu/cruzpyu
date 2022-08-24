@@ -7,7 +7,7 @@
 </div>
 
 ## 💻 Sou desenvolvedora Front-end.
-#### 📚 Atualmente estudo JavaScript e React.
+#### 📌 Atualmente estudo JavaScript e React.
 ##
 ### 📊 GitHub Stats: 
 <div align="left">
