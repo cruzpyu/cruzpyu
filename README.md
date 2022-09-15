@@ -6,7 +6,7 @@
 <img height="180" src="https://github.com/cruzpyu/portfolio/blob/main/assets/img/other__me.png?raw=true"/>
 </div>
 
-## 💻 Sou desenvolvedora Front-end.
+## 💻 Sou uma Desenvolvedora Front-end Jr.
 #### 📌 Atualmente estudo JavaScript e React.
 ##
 ### 📊 GitHub Stats: 
@@ -27,7 +27,7 @@
 </div>
 
 ##
-### 🌎 Você pode entrar em contato comigo através das redes abaixo:
+### 🌎 Entre em contato:
 <div> 
   <a href="https://www.linkedin.com/in/yullie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://discord.com/users/866455608307613706" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
