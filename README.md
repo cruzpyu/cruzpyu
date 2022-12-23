@@ -6,7 +6,7 @@
 <img height="180" src="https://github.com/cruzpyu/portfolio/blob/main/assets/img/other__me.png?raw=true"/>
 </div>
 
-## 💻 Desenvolvedora Front-end Jr.
+## 💻 Front-end Developer.
 #### 📌 Atualmente estudo JavaScript e React.
 ##
 ### 📊 GitHub Stats: 
