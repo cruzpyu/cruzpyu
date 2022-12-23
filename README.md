@@ -8,7 +8,6 @@
 
 ## 💻 Front-end Developer.
 
-##
 ### 📊 GitHub Stats: 
 <div align="left">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=cruzpyu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true"/>
