@@ -1,20 +1,7 @@
 ## Olá, me chamo Yullie! 👋
 
-
-<div align="left">
-    <a href="https://github.com/cruzpyu">
-<img height="180" src="https://github.com/cruzpyu/portfolio/blob/main/assets/img/other__me.png?raw=true"/>
-</div>
-
 ## 💻 Front-end Developer.
 
-### 📊 GitHub Stats: 
-<div align="left">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=cruzpyu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzpyu&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
-</div>
-
-##
 ### ⚙️ Tecnologias que costumo utilizar: 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
